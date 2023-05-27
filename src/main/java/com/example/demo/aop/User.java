@@ -10,6 +10,7 @@ public class User {
     private String userAccount;
     private String checkPassword;
     private int classname;
+    private String school;
     public static final String str = "[小米,华为,jd]";
     public static final String content = "{name:username,age:userage}";
 
