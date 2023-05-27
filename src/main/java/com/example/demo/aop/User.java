@@ -12,6 +12,7 @@ public class User {
     private int classname;
     private String school;
     private String peration;
+    private int houres;
     public static final String str = "[小米,华为,jd]";
     public static final String content = "{name:username,age:userage}";
 
