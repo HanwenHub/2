@@ -11,6 +11,7 @@ public class User {
     private String checkPassword;
     private int classname;
     private String school;
+    private int houres;
     public static final String str = "[小米,华为,jd]";
     public static final String content = "{name:username,age:userage}";
 
